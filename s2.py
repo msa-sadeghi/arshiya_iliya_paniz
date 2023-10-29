@@ -1,21 +1,21 @@
 # print("hello every one")
 # print("welcome to python class")
 
-print(1+2)
-print("1+2")
-print("paniz")
+# print(1+2)
+# print("1+2")
+# print("paniz")
 
-x = 12
-print(x)
+# x = 12
+# print(x)
 
 
-name = "iliya"
-print(name)
-print(type(name))
-print(name[0])
-print(name[1])
-print(name[4])
-print(name[-1])
+# name = "iliya"
+# print(name)
+# print(type(name))
+# print(name[0])
+# print(name[1])
+# print(name[4])
+# print(name[-1])
 
 # TODO
 """
@@ -32,3 +32,16 @@ print(name[-1])
 هر یک از کاراکترهای اسمتان را پرینت کنید
 
 """
+x = 1
+y = 2
+print(x + y)
+print(x - y)
+print(x * y)
+print(x / y)
+
+name = "nikan"
+print(name[0])
+print(name[1])
+print(name[2])
+print(name[3])
+print(name[4])
